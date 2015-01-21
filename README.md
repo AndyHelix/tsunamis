@@ -1,6 +1,6 @@
 #Tsunamis Web Framework
 ====================
-Tsunamis will be high-level Python Web framework encourages rapid design and could also be albe to used as light-weight high-extensible asynchronous web library.
+Tsunamis will be a high-level Python Web framework encourages rapid design and could also be able to used as a light-weight high-extensible asynchronous web library.
 
 =================================
 Tsunamis runs on Python2.7. MongoDB or some other NoSql database is the default database.(不确定)
